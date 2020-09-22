@@ -8,9 +8,11 @@
 - Este es mi primer programa lo ralice en un laboratorio de programacion
 <br>
 <a href="labora2.py">Primer programa</a>
+<br>
 - Este es mi segundo progrma fue una prueba de codigo
 <br>
 <a href="paipon.py">Segundo progrma</a>
+<br>
 - Este es mi tercer programa tratando de utilizar clases
 <br>
 <a href="persona.py">Tercer progrma</a>
